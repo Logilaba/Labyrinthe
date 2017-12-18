@@ -1,0 +1,10 @@
+image_icone = "laby.png"
+titre_fenetre = "labyrinthe"
+image_accueil = "acc2.jpg"
+image_mur = "images/mur.png"
+image_depart = "images/depart.png"
+image_arrivee = "images/arrivee.png"
+image_fond = "images/fond.jpg"
+nombre_sprite_cote = 15
+taille_sprite = 30
+cote_fenetre = nombre_sprite_cote * taille_sprite
